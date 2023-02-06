@@ -11706,6 +11706,11 @@ webidl-conversions@^6.1.0:
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-6.1.0.tgz#9111b4d7ea80acd40f5270d666621afa78b69514"
   integrity sha512-qBIvFLGiBpLjfwmYAaHPXsn+ho5xZnGvyGvsarywGNc8VyQJUMHJ8OBKGGrPER0okBeMDaan4mNBlgBROxuI8w==
 
+webpack-5@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/webpack-5/-/webpack-5-0.0.0.tgz#6292fd40fb111c833a55cfd43ab697c2c2984e06"
+  integrity sha512-jebVNW7VeOorJFUQas2aRtEY80zbS4DcdD82lejG9YkulD+LKHLOS11kuWycx9wuydUdzBhxpHNkduRvlFKbbQ==
+
 webpack-dev-middleware@^3.7.2:
   version "3.7.3"
   resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-3.7.3.tgz#0639372b143262e2b84ab95d3b91a7597061c2c5"
